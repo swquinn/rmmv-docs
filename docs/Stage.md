@@ -1,7 +1,7 @@
 Scene
 ==========
 
-RPG Maker MV's `Stage` class extends `PIXI.Stage`
+RPG Maker MV's `Stage` class extends [PIXI.Stage](http://www.goodboydigital.com/pixijs/docs/classes/Stage.html)
 
 ## API Documentation
 
